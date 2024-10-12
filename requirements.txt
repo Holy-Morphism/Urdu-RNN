@@ -1,4 +1,4 @@
 tensorflow
 pandas
 openpyxl
-scikit-learn
+keras-nlp
